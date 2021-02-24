@@ -1,7 +1,9 @@
+"use strict";
+
 function _one() {
     var your_name = "John Doe";
-    var number_of_courses = 69;
-    var program = "W201";
+    var number_of_courses = 3;
+    var program = "W269";
     var part_time_job = true;
     if (part_time_job === true) {
         var job_status = "have";
