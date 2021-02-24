@@ -68,6 +68,15 @@ Create a JavaScript function that meets the following requirements:
 ```The minimum valu in the array is: -87, the maximum value is -1```
 
 ## Count Occurrences
+`function _five(string, char)`
+
+Create a JavaScript function that meets the following requirements:
+* Accepts two input parameters, a string and a character letter.
+* The function determines the number of occurrences of the character in the string.
+* Displays the result to the console as illustrated below.
+```Calling _five(“map”, “p”);```
+
+```The word map has 1 occurrences of the character p```
 
 ## Convert Number Grade to Letter Grade
 
