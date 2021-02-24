@@ -81,6 +81,19 @@ Create a JavaScript function that meets the following requirements:
 ```The word map has 1 occurrences of the character p```
 
 ## Convert Number Grade to Letter Grade
+`function _six( grade )`
+
+Create a JavaScript function that meets the following requirements:
+* Is passed a numeric grade, calculating and displaying the corresponding letter grade based on: 100 - 90 = ‘A+’, 89 - 85 = ‘A’, 84 - 80 = ‘A’, 79 -76 = ‘B+’, 75 – 73 = ‘B’, 72 – 70 = ‘B-’, 69 – 66 = ‘C+’, 65 – 63 = ‘C’, 62 – 60 = ‘C-’, 59 – 56 = ‘D+’, 55 – 53 = ‘D’, 52 – 50 = ‘D-’, < 50 = ‘F’
+* Displays the result to the console as illustrated below:
+
+```Calling _six(93)```
+
+```Congratulations, you passed the course. Your final grade is grade = 'A+'```
+
+```Calling _six(39)```
+
+```Unfortunately, you did not meet the minimum requirement to pass the course. your final grade is: grade = 'F'```
 
 ## Reverse the Order of the Array
 
