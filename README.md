@@ -84,7 +84,7 @@ Create a JavaScript function that meets the following requirements:
 `function _six( grade )`
 
 Create a JavaScript function that meets the following requirements:
-* Is passed a numeric grade, calculating and displaying the corresponding letter grade based on: 100 - 90 = ‘A+’, 89 - 85 = ‘A’, 84 - 80 = ‘A’, 79 -76 = ‘B+’, 75 – 73 = ‘B’, 72 – 70 = ‘B-’, 69 – 66 = ‘C+’, 65 – 63 = ‘C’, 62 – 60 = ‘C-’, 59 – 56 = ‘D+’, 55 – 53 = ‘D’, 52 – 50 = ‘D-’, < 50 = ‘F’
+* Is passed a numeric grade, calculating and displaying the corresponding letter grade based on: 100 - 90 = **‘A+’**, 89 - 85 = **‘A’**, 84 - 80 = **‘A’**, 79 -76 = **‘B+’**, 75 – 73 = **‘B’**, 72 – 70 = **‘B-’**, 69 – 66 = **‘C+’**, 65 – 63 = **‘C’**, 62 – 60 = **‘C-’**, 59 – 56 = **‘D+’**, 55 – 53 = **‘D’**, 52 – 50 = **‘D-’**, < 50 = **‘F’**
 * Displays the result to the console as illustrated below:
 
 ```Calling _six(93)```
@@ -110,6 +110,15 @@ Create a JavaScript function that meets the following requirements:
 `Reversed order array = [I, q, c, A, x, c, F, g, p, j]`
 
 ## School Days Remaining
+`function _eight()`
+
+Create a JavaScript function that meets the following requirements:
+* Receives no input parameters
+* Determines the number of days until the end of the school year
+* Please note the last day of the W2021 School Calendar is: **Friday, April 23 rd , 2021**
+* Displays the result to the console as illustrated below:
+
+`Current date = 2/1/2021, last day of school = 04/23/2021. The days left until the end of school = 81 days.`
 
 ## Count Vowels
 
