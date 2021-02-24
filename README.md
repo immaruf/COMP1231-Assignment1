@@ -49,15 +49,24 @@ Create a JavaScript function that meets the following requirements:
 ```15 miles = 24.14 Kilometers, 9 kilometers = 5.59 miles.```
 
 ## Find Min and Max
+`function _four( array )`
 
-## Function 5: Count Occurrences
+Create a JavaScript function that meets the following requirements:
+* Receives an integer array as a parameter
+* The function transverses the array to determine the minimum and maximum values in the array.
+* Displays the calculated information as illustrated below:
 
-## Function 6: Convert Number Grade to Letter Grade
+``` Calling _four([-8,-1,-87,-14,-81,-74,-20,-86,-61,-10])
+The minimum valu in the array is: -87, the maximum value is -1```
 
-## Function 7: Reverse the Order of the Array
+## Count Occurrences
 
-## Function 8: School Days Remaining
+## Convert Number Grade to Letter Grade
 
-## Function 9: Count Vowels
+## Reverse the Order of the Array
 
-## Function 10: Alphabetical Order
+## School Days Remaining
+
+## Count Vowels
+
+## Alphabetical Order
