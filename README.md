@@ -33,11 +33,20 @@ Create a JavaScript function that meets the following requirements:
 Create a JavaScript function that meets the following requirements:
 * Is passed an integer parameter, representing a number of Canadian cents.
 * The function uses the parameter to determine the smallest number of Canadian quarters, dimes, nickels and pennies that are equal to the given (parameter) amount.
-* Displays the calculated information as illustrated below
+* Displays the calculated information as illustrated below:
 
 ```80 cents in minimal change is: 3 quarters, 0 dimes, 1 nickels and 0 pennies.```
 
 ## Miles to Kilometers
+`function _three(miles, kilometers)`
+
+Create a JavaScript function that meets the following requirements:
+* Receives two distances, one distance in miles and the other, a distance in kilometers value.
+* Converts the miles to the equivalent kilometer value
+* Converts the kilometer value to the equivalent miles
+* Displays the calculated information as illustrated below:
+
+```15 miles = 24.14 Kilometers, 9 kilometers = 5.59 miles.```
 
 ## Find Min and Max
 
