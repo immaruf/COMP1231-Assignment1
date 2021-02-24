@@ -144,4 +144,4 @@ Create a JavaScript function that meets the following requirements:
 
 `Calling _ten(“Sameer”);`
 
-`The string converted in alphabetical order is: aeemeS`
+`The string converted in alphabetical order is: aeemrS`
