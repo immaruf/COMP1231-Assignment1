@@ -3,7 +3,7 @@
 # Table of Contents
 
 1. [Function 1](#Student-Information)
-2. [Function 2](#Function 2: Calculate Change)
+2. [Function 2](#Calculate-Change)
 1. [Function 3](#Function 3: Miles to Kilometers)
 2. [Function 4](#Function 4: Find Min and Max)
 1. [Function 5](#Function 5: Count Occurrences)
@@ -14,7 +14,7 @@
 2. [Function 10](#Function 10: Alphabetical Order)
 ## Student Information
 Some text.
-## Function 2: Calculate Change
+## Calculate Change
 Some more text. 
 ## Function 3: Miles to Kilometers
 
