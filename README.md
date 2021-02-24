@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Function 1](#Function-1:-Student-Information)
+1. [Function 1](#Student-Information)
 2. [Function 2](#Function 2: Calculate Change)
 1. [Function 3](#Function 3: Miles to Kilometers)
 2. [Function 4](#Function 4: Find Min and Max)
@@ -12,7 +12,7 @@
 2. [Function 8](#Function 8: School Days Remaining)
 1. [Function 9](#Function 9: Count Vowels)
 2. [Function 10](#Function 10: Alphabetical Order)
-## Function 1: Student Information
+## Student Information
 Some text.
 ## Function 2: Calculate Change
 Some more text. 
