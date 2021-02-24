@@ -13,7 +13,18 @@
 1. [Function 9](#Count-Vowels)
 2. [Function 10](#Alphabetical-Order)
 ## Student Information
-Some text.
+`function _one()`
+Create a JavaScript function that meets the following requirements:
+* Creates the following variables that assign your unique profile information:
+    - ***your_name***
+    - ***number_of_courses (this semester)***
+    - ***program***
+    - ***part_time_ job (true/false)***
+* Create a Boolean variable, set to **true** or **false**, based on whether you have a part time job. Store the string **“have"** or **“don’t have”** into another variable, based on the Boolean.
+* Display your student information to the cosole *(console.log())* as illustrated below:
+    "*My name is ***???***. I’m in the ***???*** program. I’m currently taking ***???*** courses." I ***???*** have a part time job.*
+Where ***“???”*** should be replaced with your variable data    
+
 ## Calculate Change
 Some more text. 
 ## Miles to Kilometers
