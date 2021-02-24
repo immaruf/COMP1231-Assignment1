@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Function 1](#Function 1: Student Information)
+1. [Function 1](#Function-1:-Student-Information)
 2. [Function 2](#Function 2: Calculate Change)
 1. [Function 3](#Function 3: Miles to Kilometers)
 2. [Function 4](#Function 4: Find Min and Max)
@@ -22,7 +22,7 @@ Some more text.
 
 ## Function 5: Count Occurrences
 
-## #Function 6: Convert Number Grade to Letter Grade
+## Function 6: Convert Number Grade to Letter Grade
 
 ## Function 7: Reverse the Order of the Array
 
