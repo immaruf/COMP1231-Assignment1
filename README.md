@@ -24,6 +24,7 @@ Create a JavaScript function that meets the following requirements:
 * Create a Boolean variable, set to **true** or **false**, based on whether you have a part time job. Store the string **“have"** or **“don’t have”** into another variable, based on the Boolean.
 * Display your student information to the cosole *(console.log())* as illustrated below:  
 > "My name is ***???***. I’m in the ***???*** program. I’m currently taking ***???*** courses." I ***???*** have a part time job.
+> 
 > Where ***“???”*** should be replaced with your variable data
  
 ```Calling _one()```
@@ -74,6 +75,7 @@ Create a JavaScript function that meets the following requirements:
 * Accepts two input parameters, a string and a character letter.
 * The function determines the number of occurrences of the character in the string.
 * Displays the result to the console as illustrated below.
+
 ```Calling _five(“map”, “p”);```
 
 ```The word map has 1 occurrences of the character p```
