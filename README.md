@@ -23,12 +23,22 @@ Create a JavaScript function that meets the following requirements:
     - ***part_time_ job***(true/false)
 * Create a Boolean variable, set to **true** or **false**, based on whether you have a part time job. Store the string **“have"** or **“don’t have”** into another variable, based on the Boolean.
 * Display your student information to the cosole *(console.log())* as illustrated below:  
-> *"My name is ***???***. I’m in the ***???*** program. I’m currently taking ***???*** courses." I ***???*** have a part time job.*
+``` *"My name is ***???***. I’m in the ***???*** program. I’m currently taking ***???*** courses." I ***???*** have a part time job.*```
     
-Where ***“???”*** should be replaced with your variable data    
+> Where ***“???”*** should be replaced with your variable data    
 
 ## Calculate Change
-Some more text. 
+`function _two(cents)`
+
+Create a JavaScript function that meets the following requirements:
+* Is passed an integer parameter, representing a number of Canadian cents.
+* The function uses the parameter to determine the smallest number of Canadian quarters, dimes, nickels and pennies that are equal to the given (parameter) amount.
+* Displays the calculated information as illustrated below
+
+
+
+
+
 ## Miles to Kilometers
 
 ## Find Min and Max
