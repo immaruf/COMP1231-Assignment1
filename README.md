@@ -118,8 +118,30 @@ Create a JavaScript function that meets the following requirements:
 * Please note the last day of the W2021 School Calendar is: **Friday, April 23 rd , 2021**
 * Displays the result to the console as illustrated below:
 
+`Calling _eight()`
+
 `Current date = 2/1/2021, last day of school = 04/23/2021. The days left until the end of school = 81 days.`
 
 ## Count Vowels
+`function _nine(word)`
+
+Create a JavaScript function that meets the following requirements:
+* Accepts a string parameter, counting the number of vowels within the string.
+* The function should be case insensitive, handling both upper and/or lowercase letters.
+* Displays the result to the console as illustrated below.
+
+`Calling _nine(“flugelhorn”);`
+
+`Vowel count: A=0, E=1, I=0, O=1, U=1, Y=0`
 
 ## Alphabetical Order
+`function _ten(my_string)`
+
+Create a JavaScript function that meets the following requirements:
+* Create a JavaScript function that accepts a string parameter, then organizes the string so it’s in alphabetical order
+* The function is case **insensitive**, that is, it does not distinguish any difference between upper or lower case.
+* Displays the result to the console as illustrated below.
+
+`Calling _ten(“Sameer”);`
+
+`The string converted in alphabetical order is: aeemeS`
