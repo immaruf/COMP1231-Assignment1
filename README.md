@@ -96,6 +96,18 @@ Create a JavaScript function that meets the following requirements:
 ```Unfortunately, you did not meet the minimum requirement to pass the course. your final grade is: grade = 'F'```
 
 ## Reverse the Order of the Array
+`function _seven(array)`
+
+Create a JavaScript function that meets the following requirements:
+* Receives character array
+* The function reverses the order of the of the character array.
+* Displays the results to the console as illustrated below:
+
+`Calling _seven([j, p, g, F, c, x, A, c, q, I]);`
+
+`Original order array = [j, p, g, F, c, x, A, c, q, I]`
+
+`Reversed order array = [I, q, c, A, x, c, F, g, p, j]`
 
 ## School Days Remaining
 
