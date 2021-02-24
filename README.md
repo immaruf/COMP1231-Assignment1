@@ -56,8 +56,8 @@ Create a JavaScript function that meets the following requirements:
 * The function transverses the array to determine the minimum and maximum values in the array.
 * Displays the calculated information as illustrated below:
 
-``` Calling _four([-8,-1,-87,-14,-81,-74,-20,-86,-61,-10])
-The minimum valu in the array is: -87, the maximum value is -1```
+```Calling _four([-8,-1,-87,-14,-81,-74,-20,-86,-61,-10]);```
+```The minimum valu in the array is: -87, the maximum value is -1```
 
 ## Count Occurrences
 
